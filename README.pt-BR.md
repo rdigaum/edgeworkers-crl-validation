@@ -70,10 +70,10 @@ export const revokedFingerprints = [
 
 ## Recursos Relacionados
 
-- [Visão Geral do EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs/what-is-edgeworkers)
+- [Visão Geral do EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs/welcome-to-edgeworkers)
 - [Funções de Manipulação de Evento](https://techdocs.akamai.com/edgeworkers/docs/event-handler-functions)
 - [API JavaScript do EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs/about-the-javascript-api)
-- [Variáveis PMUSER](https://techdocs.akamai.com/property-mgr/docs/using-variables)
+- [Variáveis PMUSER](https://techdocs.akamai.com/property-mgr/docs/var-ov)
 - [Repositório de Exemplos do EdgeWorkers](https://github.com/akamai/edgeworkers-examples)
 - [Exemplo de Resposta Substituta](https://github.com/akamai/edgeworkers-examples/tree/master/edgecompute/examples/surrogate-response)
 
