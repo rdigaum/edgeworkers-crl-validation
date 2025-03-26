@@ -1,4 +1,4 @@
-# 🔐 CRL - Client Certificate Validation on Akamai EdgeWorkers
+# CRL - Certificate Revocation List with Akamai EdgeWorkers
 
 This project demonstrates how to validate client certificates (mTLS) via CRL using **Akamai EdgeWorkers**, blocking access for revoked certificates based on a local file (`data.js`). It is designed for use cases where Property Manager require certificate revocation checks at the Edge.
 
