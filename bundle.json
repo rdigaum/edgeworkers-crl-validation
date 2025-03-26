@@ -1,0 +1,8 @@
+{
+    "edgeworker-version": "0.1",
+    "bundle-version" : 1,
+    "description" : "Revokate Certificates",
+    "misc" : {
+    "author" : "<rbritodo@akamai.com>"
+    }
+   } 

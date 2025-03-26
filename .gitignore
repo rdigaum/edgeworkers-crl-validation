@@ -1,0 +1,13 @@
+# Node and build artifacts
+node_modules/
+dist/
+*.tgz
+
+# Akamai CLI credentials (caso usados)
+.edgerc
+
+# Logs e sistema
+*.log
+
+# MacOS e system files
+.DS_Store
