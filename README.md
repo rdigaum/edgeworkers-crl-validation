@@ -15,7 +15,7 @@ This project demonstrates how to validate client certificates (mTLS) via CRL usi
 ```bash
 ├── main.js          # Main logic of the EdgeWorker
 ├── data.js          # Local list of revoked fingerprints
-├── bundle.json      # EdgeWorker configuration file
+├── bundle.json      # Manifest file with metadata information
 ```
 
 ## How to Deploy on Akamai

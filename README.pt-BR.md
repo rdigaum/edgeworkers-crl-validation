@@ -15,7 +15,7 @@ Este projeto demonstra como validar certificados de cliente (mTLS) via LCR (List
 ```bash
 ├── main.js          # Lógica principal do EdgeWorker
 ├── data.js          # Lista local de fingerprints revogados
-├── bundle.json      # Arquivo de configuração do EdgeWorker
+├── bundle.json      # Arquivo de manifesto com informações para o EdgeWorker
 ```
 
 ## Como Publicar na Akamai
